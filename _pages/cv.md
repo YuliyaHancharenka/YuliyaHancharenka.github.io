@@ -36,24 +36,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Frameworks
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Domains
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Work Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Certificates
 ======
 * Currently signed in to 43 different slack teams
