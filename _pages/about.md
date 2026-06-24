@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Обо мне"
-excerpt: "Коуч и психолог · IT-инженер"
+excerpt: "Коуч и психолог"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 <div class="page__hero">
+  <div class="hero-dots"></div>
   <h1>
     <span class="lang-ru">Привет, я Юлия!</span>
     <span class="lang-en" style="display:none">Hi, I'm Yuliya!</span>
   </h1>
   <p class="tagline">
-    <span class="lang-ru">Коуч · Психолог в обучении · Инженер по автоматизации тестирования</span>
-    <span class="lang-en" style="display:none">Coach · Psychologist in training · QA Automation Engineer</span>
+    <span class="lang-ru">Коуч · Психолог в обучении</span>
+    <span class="lang-en" style="display:none">Coach · Psychologist in training</span>
   </p>
 </div>
 
@@ -25,8 +26,9 @@ redirect_from:
     <span class="lang-en" style="display:none">Who am I?</span>
   </h2>
 
-  <div class="identity-grid">
-    <div class="identity-card">
+  <div class="coach-card">
+    <div class="coach-card__icon">🌿</div>
+    <div class="coach-card__body">
       <h3>
         <span class="lang-ru">Коуч и психолог</span>
         <span class="lang-en" style="display:none">Coach & Psychologist</span>
@@ -36,31 +38,30 @@ redirect_from:
         <span class="lang-en" style="display:none">I help people find clarity, confidence and direction through coaching and a psychological approach. My focus: personal growth, career transitions, work-life balance.</span>
       </p>
     </div>
-    <div class="identity-card">
-      <h3>
-        <span class="lang-ru">Ведущий инженер по автоматизации</span>
-        <span class="lang-en" style="display:none">Lead Automation Engineer</span>
-      </h3>
-      <p>
-        <span class="lang-ru">Более нескольких лет в IT — автоматизация тестирования, системное мышление, работа в agile-командах. Я понимаю изнутри, как устроена жизнь IT-специалиста.</span>
-        <span class="lang-en" style="display:none">Several years in IT — test automation, systems thinking, agile team environments. I know from the inside what life as an IT professional feels like.</span>
-      </p>
-    </div>
   </div>
+
+  <p class="it-note">
+    <span class="lang-ru">Также я работаю ведущим инженером по автоматизации тестирования — <a href="https://www.linkedin.com/in/yuliya-hancharenka-8a071663/" target="_blank" rel="noopener">LinkedIn</a>.</span>
+    <span class="lang-en" style="display:none">I also work as a Lead Automation Engineer — <a href="https://www.linkedin.com/in/yuliya-hancharenka-8a071663/" target="_blank" rel="noopener">LinkedIn</a>.</span>
+  </p>
 </div>
 
-<div class="about-section">
+<div class="about-section story-section">
   <h2>
     <span class="lang-ru">Моя история</span>
     <span class="lang-en" style="display:none">My Story</span>
   </h2>
   <p>
-    <span class="lang-ru">Долгие годы я строила карьеру в IT, и это было по-настоящему интересно. Но в какой-то момент я поняла, что хочу большего — хочу работать с людьми, помогать им расти и находить смысл. Так начался мой путь в коучинг и психологию.</span>
-    <span class="lang-en" style="display:none">For years I built a career in IT, and it was genuinely interesting. But at some point I realised I wanted more — to work with people, to help them grow and find meaning. That's how my journey into coaching and psychology began.</span>
+    <span class="lang-ru">Меня всегда восхищало, что каждый человек — это целая вселенная. Уникальная, со своими созвездиями смыслов, скрытыми ресурсами и вопросами, которые иногда ищут ответа годами.</span>
+    <span class="lang-en" style="display:none">I have always been in awe of the fact that every person is an entire universe. Unique, with their own constellations of meaning, hidden resources and questions that sometimes search for an answer for years.</span>
   </p>
   <p>
-    <span class="lang-ru">Сегодня я соединяю аналитическое мышление из IT с глубиной психологического подхода. Это даёт мне особый взгляд на людей и их ситуации — структурированный, но человечный.</span>
-    <span class="lang-en" style="display:none">Today I combine analytical thinking from IT with the depth of a psychological approach. This gives me a unique perspective on people and their situations — structured, yet deeply human.</span>
+    <span class="lang-ru">Именно это глубокое любопытство к внутреннему миру людей и искренняя вера в то, что каждый способен меняться и трансформироваться, привели меня к коучингу и психологии.</span>
+    <span class="lang-en" style="display:none">It is this deep curiosity about people's inner worlds and a genuine belief that everyone is capable of change and transformation that led me to coaching and psychology.</span>
+  </p>
+  <p>
+    <span class="lang-ru">Я хочу быть рядом в моменты, когда что-то внутри ищет выход. Создавать пространство, где можно остановиться, услышать себя — и сделать следующий шаг туда, где по-настоящему хочется быть.</span>
+    <span class="lang-en" style="display:none">I want to be present in the moments when something inside is searching for a way out. To create a space where you can pause, hear yourself — and take the next step towards where you truly want to be.</span>
   </p>
 </div>
 
@@ -70,28 +71,28 @@ redirect_from:
     <span class="lang-en" style="display:none">How I Work</span>
   </h2>
   <p>
-    <span class="lang-ru">В коучинге я верю, что каждый человек — эксперт своей жизни. Моя роль — создать пространство, где вы можете думать ясно, задавать себе важные вопросы и двигаться вперёд с уверенностью. Я не даю советов — я помогаю вам найти свои ответы.</span>
-    <span class="lang-en" style="display:none">In coaching I believe each person is the expert of their own life. My role is to create a space where you can think clearly, ask yourself important questions, and move forward with confidence. I don't give advice — I help you find your own answers.</span>
+    <span class="lang-ru">В коучинге я верю, что каждый человек — эксперт своей жизни. Моя роль — создать пространство, где вы можете думать ясно, задавать себе важные вопросы и двигаться вперёд с уверенностью.</span>
+    <span class="lang-en" style="display:none">In coaching I believe each person is the expert of their own life. My role is to create a space where you can think clearly, ask yourself important questions, and move forward with confidence.</span>
   </p>
 
-  <ul>
-    <li>
-      <span class="lang-ru"><strong>Личностный рост</strong> — осознанность, ценности, жизненные цели</span>
-      <span class="lang-en" style="display:none"><strong>Personal growth</strong> — self-awareness, values, life goals</span>
-    </li>
-    <li>
-      <span class="lang-ru"><strong>Карьерные переходы</strong> — смена профессии, рост внутри IT, поиск призвания</span>
-      <span class="lang-en" style="display:none"><strong>Career transitions</strong> — changing profession, growth within IT, finding vocation</span>
-    </li>
-    <li>
-      <span class="lang-ru"><strong>Баланс работа / жизнь</strong> — управление энергией, выгорание, приоритеты</span>
-      <span class="lang-en" style="display:none"><strong>Work-life balance</strong> — energy management, burnout, priorities</span>
-    </li>
-    <li>
-      <span class="lang-ru"><strong>IT-специалистам</strong> — я понимаю вашу специфику и могу работать с ней как коуч</span>
-      <span class="lang-en" style="display:none"><strong>For IT professionals</strong> — I understand your world and can work with it as a coach</span>
-    </li>
-  </ul>
+  <div class="tags-row">
+    <span class="tag">
+      <span class="lang-ru">🌱 Личностный рост</span>
+      <span class="lang-en" style="display:none">🌱 Personal growth</span>
+    </span>
+    <span class="tag">
+      <span class="lang-ru">🔄 Карьерные переходы</span>
+      <span class="lang-en" style="display:none">🔄 Career transitions</span>
+    </span>
+    <span class="tag">
+      <span class="lang-ru">⚖️ Баланс работа / жизнь</span>
+      <span class="lang-en" style="display:none">⚖️ Work-life balance</span>
+    </span>
+    <span class="tag">
+      <span class="lang-ru">✨ Самооценка и уверенность</span>
+      <span class="lang-en" style="display:none">✨ Self-esteem & confidence</span>
+    </span>
+  </div>
 </div>
 
 <div class="about-section">
