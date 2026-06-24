@@ -1,16 +1,17 @@
-# main links links
+# main links — titles here are unused; bilingual labels are rendered in masthead.html
 main:
-  - title: "Publications"
-    url: /publications/
-   
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Обо мне"
+    title_en: "About"
+    url: /about/
+
+  - title: "Коучинг"
+    title_en: "Coaching"
+    url: /coaching/
+
+  - title: "Сертификаты"
+    title_en: "Certificates"
+    url: /certificates/
+
+  - title: "Контакты"
+    title_en: "Contact"
+    url: /contact/

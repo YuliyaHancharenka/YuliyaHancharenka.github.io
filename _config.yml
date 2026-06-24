@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yuliya Hancharenka"
+locale                   : "ru"
+title                    : "Юлия Гончаренко"
 title_separator          : "-"
-name                     : &name "Yuliya Hancharenka"
-description              : &description "Software Develop in Test"
+name                     : &name "Юлия Гончаренко"
+description              : &description "Коуч и психолог"
 url                      : https://YuliyaHancharenka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuliyaHancharenka/YuliyaHancharenka.github.io"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuliya Hancharenka"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Minsk, Belarus"
+  name             : "Юлия Гончаренко"
+  avatar           : "profile.jpg"
+  bio              : "Коуч и психолог в обучении · Ведущий инженер по автоматизации"
+  location         : "Варшава, Польша"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : https://www.instagram.com/julls_goncharenko/?hl=en
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    :
+  email            :
+  researchgate     :
   uri              :
-  bitbucket        : "yuliya_hancharenka"
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/ladyjuliagoncharenko
+  facebook         : "ladyjuliagoncharenko"
   foursquare       :
-  github           : https://github.com/YuliyaHancharenka
+  github           :
   google_plus      :
   keybase          :
-  instagram        : https://www.instagram.com/julls_goncharenko/?hl=en
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "julls_goncharenko"
+  impactstory      :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/yuliya-hancharenka-8a071663/
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "yuliya-hancharenka-8a071663"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/10309965/yuliya-hancharenka
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
