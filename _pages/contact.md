@@ -18,22 +18,47 @@ author_profile: true
 
 <div class="about-section">
   <h2>
-    <span class="lang-ru">Как связаться</span>
-    <span class="lang-en" style="display:none">How to Reach Me</span>
+    <span class="lang-ru">Запись на сессию</span>
+    <span class="lang-en" style="display:none">Book a Session</span>
+  </h2>
+
+  <div class="telegram-block">
+    <div class="tg-icon">✈️</div>
+    <h3>Telegram</h3>
+    <p>
+      <span class="lang-ru">Напишите мне в Telegram — и мы выберем удобное время для сессии.</span>
+      <span class="lang-en" style="display:none">Message me on Telegram and we'll find a convenient time for your session.</span>
+    </p>
+    <a href="https://t.me/YuliyaHancharenka" target="_blank" rel="noopener" class="btn-telegram">@YuliyaHancharenka</a>
+  </div>
+
+  <p>
+    <span class="lang-ru">Сессии проводятся онлайн (Zoom или Telegram). Первая пробная встреча — 30 минут бесплатно.</span>
+    <span class="lang-en" style="display:none">Sessions are held online (Zoom or Telegram). First discovery call — 30 minutes free.</span>
+  </p>
+</div>
+
+<div class="about-section">
+  <h2>
+    <span class="lang-ru">Другие способы связи</span>
+    <span class="lang-en" style="display:none">Other Ways to Reach Me</span>
   </h2>
 
   <div class="identity-grid">
     <div class="identity-card">
+      <h3>
+        <span class="lang-ru">Электронная почта</span>
+        <span class="lang-en" style="display:none">Email</span>
+      </h3>
+      <p><a href="mailto:ladyjuliagoncharenko@gmail.com">ladyjuliagoncharenko@gmail.com</a></p>
+    </div>
+    <div class="identity-card">
       <h3>Instagram</h3>
-      <p>
-        <a href="https://www.instagram.com/julls_goncharenko/" target="_blank" rel="noopener">@julls_goncharenko</a>
-      </p>
+      <p><a href="https://www.instagram.com/julls_goncharenko/" target="_blank" rel="noopener">@julls_goncharenko</a></p>
     </div>
     <div class="identity-card">
       <h3>Facebook</h3>
-      <p>
-        <a href="https://www.facebook.com/ladyjuliagoncharenko" target="_blank" rel="noopener">ladyjuliagoncharenko</a>
-      </p>
+      <p><a href="https://www.facebook.com/ladyjuliagoncharenko" target="_blank" rel="noopener">ladyjuliagoncharenko</a></p>
     </div>
     <div class="identity-card">
       <h3>LinkedIn</h3>
@@ -44,30 +69,5 @@ author_profile: true
         </a>
       </p>
     </div>
-    <div class="identity-card">
-      <h3>
-        <span class="lang-ru">Электронная почта</span>
-        <span class="lang-en" style="display:none">Email</span>
-      </h3>
-      <p>
-        <span class="lang-ru"><em>Укажите ваш email здесь</em></span>
-        <span class="lang-en" style="display:none"><em>Add your email address here</em></span>
-      </p>
-    </div>
   </div>
-</div>
-
-<div class="about-section">
-  <h2>
-    <span class="lang-ru">Запись на сессию</span>
-    <span class="lang-en" style="display:none">Book a Session</span>
-  </h2>
-  <p>
-    <span class="lang-ru">Напишите мне в Instagram или Facebook с сообщением <strong>«Хочу на консультацию»</strong> — и мы выберем удобное время.</span>
-    <span class="lang-en" style="display:none">Message me on Instagram or Facebook with <strong>"I'd like a consultation"</strong> and we'll find a convenient time.</span>
-  </p>
-  <p>
-    <span class="lang-ru">Сессии проводятся онлайн (Zoom или Telegram). Первая пробная встреча — 30 минут бесплатно.</span>
-    <span class="lang-en" style="display:none">Sessions are held online (Zoom or Telegram). First discovery call — 30 minutes free.</span>
-  </p>
 </div>
